@@ -1,10 +1,12 @@
-Chapter01/*.exe
-Chapter02/*.exe
-Chapter03/*.exe
-Chapter04/*.exe
-Chapter05/*.exe
-Chapter06/*.exe
-Chapter07/*.exe
-Chapter08/*.exe
-Chapter09/*.exe
-Chapter10/*.exe
+# Chapter01/*.exe
+# Chapter02/*.exe
+# Chapter03/*.exe
+# Chapter04/*.exe
+# Chapter05/*.exe
+# Chapter06/*.exe
+# Chapter07/*.exe
+# Chapter08/*.exe
+# Chapter09/*.exe
+# Chapter10/*.exe
+
+Chapter**/*.exe
